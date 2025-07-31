@@ -1,4 +1,2 @@
-Text A example 
 
-
-changes on Branch A
+Changes on Branch B
