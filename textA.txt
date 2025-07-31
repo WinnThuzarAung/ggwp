@@ -1,1 +1,2 @@
-Text A example 
+
+Changes on Branch B
